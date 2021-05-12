@@ -3,4 +3,4 @@
 This is example of architecture diagrams.
 
 ## Use-Case Diagram
-![Alt text](/UseCaseDiagram.bmp)
+![Alt text](/01_UseCaseDiagram.bmp)
