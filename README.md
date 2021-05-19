@@ -12,4 +12,4 @@ This is example of architecture diagrams.
 ![Alt text](/02_08_Functional_Diagram_A_1.bmp)
 
 ## Data Flow Diagram A-0
-![Alt text](/03_Data_Flow_Diagram_A_0.bmp)
+![Alt text](/03_Data_Flow_Diagram_A_0.png)
