@@ -7,3 +7,6 @@ This is example of architecture diagrams.
 
 ## Functional Diagram A-0
 ![Alt text](/02_01_Functional_Diagram_A_0.bmp)
+
+## Functional Diagram A-1
+![Alt text](/02_08_Functional_Diagram_A_1.bmp)
