@@ -13,3 +13,6 @@ This is example of architecture diagrams.
 
 ## Data Flow Diagram A-0
 ![Alt text](/03_Data_Flow_Diagram_A_0.png)
+
+## Data Flow Diagram A-1
+![Alt text](/03_Data_Flow_Diagram_A_1.png)
