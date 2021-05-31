@@ -13,3 +13,6 @@ This is example of architecture diagrams.
 
 ## Component Diagram
 ![Alt text](/04_Component_Diagram.svg)
+
+## Class Diagram
+![Alt text](/05_Class_Diagram.svg)
