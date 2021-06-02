@@ -16,3 +16,7 @@ This is example of architecture diagrams.
 
 ## Class Diagram
 ![Alt text](/05_Class_Diagram.svg)
+
+## Sequence Diagram
+![Alt text](/06_Sequence_Diagram.svg)
+
